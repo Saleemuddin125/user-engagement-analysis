@@ -1,0 +1,301 @@
+User_ID,Course_Name,Time_Spent,Sessions_Per_Week,Completion_Status,Feedback_Rating,Date
+101,Python Basics,120,3,Completed,5,2025-01-11
+102,Python Basics,171,2,Completed,4,2025-01-22
+103,Web Development,40,7,Not Completed,2,2025-03-29
+104,Data Science,153,2,Completed,5,2025-03-26
+105,Web Development,92,5,Not Completed,2,2025-01-17
+106,Web Development,131,3,Completed,4,2025-03-09
+107,Data Science,73,2,Not Completed,3,2025-01-08
+108,Python Basics,218,3,Completed,5,2025-02-11
+109,Data Science,212,5,Completed,5,2025-02-08
+110,Web Development,39,4,Not Completed,4,2025-03-02
+111,Web Development,88,5,Not Completed,3,2025-02-28
+112,Web Development,127,5,Completed,5,2025-03-19
+113,Data Science,118,6,Completed,5,2025-02-27
+114,Data Science,228,4,Completed,4,2025-02-24
+115,Python Basics,213,7,Completed,4,2025-02-09
+116,Python Basics,47,6,Not Completed,2,2025-03-09
+117,Web Development,126,3,Completed,5,2025-02-11
+118,Web Development,92,3,Not Completed,3,2025-01-18
+119,Web Development,139,5,Completed,5,2025-03-27
+120,Python Basics,120,3,Completed,5,2025-01-23
+121,Web Development,228,3,Completed,5,2025-01-23
+122,Data Science,146,2,Completed,5,2025-02-03
+123,Python Basics,40,1,Not Completed,4,2025-01-25
+124,Data Science,48,2,Not Completed,3,2025-01-04
+125,Data Science,149,2,Completed,4,2025-02-25
+126,Web Development,70,6,Not Completed,4,2025-03-13
+127,Web Development,166,1,Completed,5,2025-01-23
+128,Data Science,167,4,Completed,5,2025-03-20
+129,Python Basics,56,7,Not Completed,4,2025-01-20
+130,Python Basics,149,5,Completed,5,2025-01-02
+131,Web Development,132,6,Completed,4,2025-01-07
+132,Data Science,111,2,Completed,5,2025-03-19
+133,Python Basics,130,1,Completed,4,2025-01-02
+134,Data Science,110,5,Completed,5,2025-02-16
+135,Data Science,131,6,Completed,5,2025-02-18
+136,Data Science,201,6,Completed,4,2025-03-04
+137,Data Science,38,6,Not Completed,3,2025-03-17
+138,Web Development,222,3,Completed,5,2025-01-22
+139,Python Basics,78,4,Not Completed,3,2025-01-28
+140,Web Development,36,7,Not Completed,2,2025-02-08
+141,Python Basics,237,2,Completed,4,2025-02-27
+142,Data Science,79,6,Not Completed,4,2025-02-19
+143,Python Basics,168,1,Completed,4,2025-03-15
+144,Python Basics,163,1,Completed,5,2025-01-04
+145,Web Development,108,7,Completed,4,2025-01-19
+146,Data Science,67,5,Not Completed,2,2025-01-22
+147,Web Development,98,1,Not Completed,2,2025-02-17
+148,Web Development,138,6,Completed,5,2025-02-25
+149,Data Science,143,3,Completed,5,2025-03-12
+150,Web Development,96,4,Not Completed,2,2025-02-13
+151,Data Science,114,7,Completed,5,2025-01-09
+152,Python Basics,127,4,Completed,4,2025-01-25
+153,Python Basics,191,2,Completed,5,2025-01-30
+154,Python Basics,194,4,Completed,5,2025-01-05
+155,Python Basics,202,3,Completed,5,2025-01-21
+156,Python Basics,100,1,Not Completed,4,2025-02-14
+157,Data Science,39,4,Not Completed,3,2025-01-19
+158,Python Basics,58,1,Not Completed,3,2025-02-21
+159,Web Development,107,2,Completed,5,2025-01-06
+160,Data Science,195,3,Completed,5,2025-02-23
+161,Python Basics,148,7,Completed,4,2025-02-19
+162,Web Development,220,2,Completed,4,2025-02-10
+163,Data Science,187,6,Completed,5,2025-01-12
+164,Data Science,62,7,Not Completed,4,2025-01-24
+165,Python Basics,190,7,Completed,5,2025-03-01
+166,Python Basics,155,3,Completed,4,2025-02-28
+167,Python Basics,160,6,Completed,4,2025-03-22
+168,Python Basics,102,2,Completed,4,2025-03-23
+169,Data Science,137,1,Completed,4,2025-01-28
+170,Data Science,180,4,Completed,4,2025-01-31
+171,Python Basics,46,5,Not Completed,2,2025-02-25
+172,Python Basics,71,4,Not Completed,2,2025-02-19
+173,Web Development,76,6,Not Completed,3,2025-03-12
+174,Web Development,148,1,Completed,5,2025-03-08
+175,Web Development,208,6,Completed,4,2025-03-01
+176,Data Science,219,6,Completed,4,2025-02-28
+177,Data Science,147,1,Completed,5,2025-01-25
+178,Data Science,56,1,Not Completed,3,2025-03-31
+179,Data Science,53,4,Not Completed,4,2025-03-19
+180,Data Science,196,5,Completed,4,2025-02-20
+181,Data Science,32,5,Not Completed,3,2025-03-11
+182,Web Development,192,1,Completed,5,2025-01-02
+183,Python Basics,79,3,Not Completed,4,2025-02-15
+184,Web Development,124,5,Completed,4,2025-01-03
+185,Data Science,51,5,Not Completed,3,2025-02-26
+186,Web Development,218,5,Completed,4,2025-03-04
+187,Data Science,223,3,Completed,4,2025-02-12
+188,Data Science,218,3,Completed,5,2025-02-17
+189,Data Science,169,5,Completed,5,2025-02-21
+190,Web Development,96,2,Not Completed,2,2025-01-24
+191,Web Development,235,6,Completed,5,2025-02-23
+192,Python Basics,72,2,Not Completed,4,2025-03-13
+193,Python Basics,223,2,Completed,5,2025-01-12
+194,Web Development,66,6,Not Completed,3,2025-01-27
+195,Data Science,226,2,Completed,4,2025-01-24
+196,Web Development,99,3,Not Completed,4,2025-02-27
+197,Web Development,65,6,Not Completed,4,2025-02-19
+198,Data Science,173,5,Completed,4,2025-03-14
+199,Web Development,132,3,Completed,5,2025-01-05
+200,Web Development,112,7,Completed,4,2025-02-18
+201,Data Science,233,4,Completed,4,2025-02-13
+202,Python Basics,124,3,Completed,4,2025-02-03
+203,Data Science,227,4,Completed,5,2025-01-04
+204,Web Development,151,4,Completed,4,2025-03-09
+205,Python Basics,87,5,Not Completed,3,2025-02-12
+206,Data Science,63,5,Not Completed,2,2025-01-18
+207,Python Basics,42,3,Not Completed,4,2025-01-05
+208,Python Basics,222,5,Completed,5,2025-03-24
+209,Data Science,31,2,Not Completed,2,2025-03-15
+210,Python Basics,111,4,Completed,5,2025-02-10
+211,Data Science,186,6,Completed,4,2025-01-11
+212,Python Basics,211,6,Completed,4,2025-01-07
+213,Data Science,159,2,Completed,5,2025-01-09
+214,Python Basics,236,2,Completed,5,2025-01-27
+215,Web Development,103,2,Completed,5,2025-02-02
+216,Web Development,223,2,Completed,4,2025-03-08
+217,Data Science,64,2,Not Completed,3,2025-01-20
+218,Data Science,52,6,Not Completed,3,2025-03-10
+219,Data Science,43,7,Not Completed,2,2025-03-14
+220,Web Development,184,4,Completed,4,2025-02-14
+221,Python Basics,70,2,Not Completed,2,2025-02-15
+222,Web Development,43,4,Not Completed,4,2025-02-26
+223,Data Science,198,2,Completed,4,2025-02-10
+224,Data Science,50,1,Not Completed,3,2025-03-18
+225,Web Development,73,7,Not Completed,3,2025-01-27
+226,Data Science,176,5,Completed,5,2025-03-18
+227,Data Science,138,3,Completed,5,2025-02-03
+228,Web Development,149,7,Completed,4,2025-03-05
+229,Python Basics,79,6,Not Completed,3,2025-01-27
+230,Web Development,48,5,Not Completed,2,2025-01-17
+231,Web Development,215,1,Completed,4,2025-01-16
+232,Python Basics,193,5,Completed,4,2025-01-18
+233,Web Development,165,4,Completed,5,2025-01-23
+234,Data Science,211,5,Completed,4,2025-02-28
+235,Data Science,98,5,Not Completed,3,2025-03-26
+236,Web Development,166,2,Completed,4,2025-01-02
+237,Python Basics,166,1,Completed,4,2025-02-12
+238,Data Science,87,1,Not Completed,2,2025-01-21
+239,Python Basics,80,6,Not Completed,4,2025-03-24
+240,Data Science,112,2,Completed,5,2025-03-26
+241,Web Development,147,1,Completed,5,2025-03-27
+242,Python Basics,125,2,Completed,5,2025-02-19
+243,Web Development,67,7,Not Completed,2,2025-03-03
+244,Python Basics,37,4,Not Completed,2,2025-03-02
+245,Data Science,176,4,Completed,5,2025-01-22
+246,Web Development,90,2,Not Completed,4,2025-01-18
+247,Python Basics,86,2,Not Completed,3,2025-01-17
+248,Web Development,48,4,Not Completed,4,2025-01-22
+249,Web Development,152,2,Completed,4,2025-01-06
+250,Web Development,73,1,Not Completed,3,2025-03-21
+251,Web Development,160,2,Completed,4,2025-01-02
+252,Python Basics,142,2,Completed,5,2025-01-01
+253,Python Basics,34,7,Not Completed,2,2025-01-10
+254,Data Science,142,1,Completed,4,2025-01-26
+255,Python Basics,181,3,Completed,5,2025-03-20
+256,Web Development,102,1,Completed,5,2025-01-07
+257,Web Development,161,5,Completed,5,2025-01-19
+258,Data Science,47,2,Not Completed,4,2025-03-31
+259,Python Basics,104,7,Completed,5,2025-02-09
+260,Data Science,180,6,Completed,4,2025-03-11
+261,Python Basics,87,6,Not Completed,4,2025-01-01
+262,Web Development,223,7,Completed,5,2025-03-28
+263,Data Science,133,1,Completed,5,2025-03-22
+264,Web Development,173,6,Completed,5,2025-02-19
+265,Web Development,102,2,Completed,4,2025-02-08
+266,Python Basics,114,6,Completed,4,2025-01-10
+267,Web Development,118,1,Completed,4,2025-02-07
+268,Web Development,165,7,Completed,4,2025-01-21
+269,Web Development,164,1,Completed,5,2025-02-17
+270,Data Science,207,2,Completed,5,2025-02-27
+271,Data Science,152,6,Completed,5,2025-02-03
+272,Data Science,127,4,Completed,4,2025-02-02
+273,Python Basics,227,4,Completed,5,2025-03-16
+274,Python Basics,100,6,Not Completed,3,2025-03-09
+275,Python Basics,33,4,Not Completed,3,2025-02-11
+276,Data Science,188,3,Completed,5,2025-02-17
+277,Data Science,153,4,Completed,4,2025-02-12
+278,Web Development,232,6,Completed,4,2025-03-18
+279,Web Development,227,1,Completed,5,2025-02-14
+280,Data Science,118,3,Completed,5,2025-02-15
+281,Web Development,229,4,Completed,5,2025-02-18
+282,Python Basics,113,2,Completed,4,2025-02-05
+283,Data Science,214,5,Completed,4,2025-01-15
+284,Web Development,178,5,Completed,5,2025-01-19
+285,Web Development,213,3,Completed,5,2025-04-01
+286,Web Development,240,5,Completed,5,2025-01-11
+287,Python Basics,93,2,Not Completed,2,2025-01-16
+288,Web Development,171,7,Completed,5,2025-01-30
+289,Python Basics,201,3,Completed,5,2025-03-24
+290,Data Science,217,1,Completed,4,2025-03-13
+291,Python Basics,192,6,Completed,5,2025-01-28
+292,Data Science,221,4,Completed,5,2025-03-04
+293,Data Science,238,4,Completed,4,2025-01-29
+294,Python Basics,179,3,Completed,5,2025-02-04
+295,Python Basics,208,4,Completed,4,2025-02-11
+296,Python Basics,110,4,Completed,5,2025-01-17
+297,Python Basics,200,5,Completed,5,2025-01-09
+298,Data Science,62,2,Not Completed,2,2025-02-07
+299,Data Science,128,5,Completed,5,2025-01-21
+300,Python Basics,88,1,Not Completed,4,2025-02-05
+301,Data Science,31,6,Not Completed,4,2025-01-07
+302,Data Science,79,2,Not Completed,2,2025-02-25
+303,Python Basics,67,5,Not Completed,2,2025-03-16
+304,Web Development,185,1,Completed,4,2025-01-19
+305,Web Development,106,5,Completed,5,2025-03-04
+306,Web Development,225,4,Completed,5,2025-03-26
+307,Data Science,190,6,Completed,5,2025-02-01
+308,Web Development,227,6,Completed,4,2025-01-11
+309,Web Development,133,6,Completed,4,2025-01-10
+310,Python Basics,48,1,Not Completed,4,2025-02-22
+311,Python Basics,84,7,Not Completed,2,2025-03-12
+312,Data Science,138,1,Completed,4,2025-02-05
+313,Python Basics,51,2,Not Completed,3,2025-03-13
+314,Web Development,240,5,Completed,4,2025-03-31
+315,Python Basics,100,4,Not Completed,3,2025-03-28
+316,Data Science,136,2,Completed,5,2025-03-23
+317,Data Science,147,1,Completed,5,2025-01-09
+318,Python Basics,217,3,Completed,5,2025-01-05
+319,Web Development,126,5,Completed,4,2025-01-14
+320,Python Basics,170,4,Completed,4,2025-01-21
+321,Web Development,229,1,Completed,5,2025-03-07
+322,Data Science,102,3,Completed,5,2025-03-14
+323,Web Development,97,1,Not Completed,4,2025-02-12
+324,Data Science,198,4,Completed,4,2025-01-25
+325,Web Development,87,2,Not Completed,2,2025-01-26
+326,Python Basics,183,4,Completed,4,2025-02-21
+327,Python Basics,144,7,Completed,5,2025-01-11
+328,Web Development,149,3,Completed,4,2025-02-18
+329,Data Science,59,5,Not Completed,2,2025-02-05
+330,Data Science,62,4,Not Completed,4,2025-03-25
+331,Python Basics,46,2,Not Completed,4,2025-03-28
+332,Web Development,142,7,Completed,5,2025-01-07
+333,Web Development,200,6,Completed,4,2025-01-06
+334,Python Basics,171,2,Completed,5,2025-03-18
+335,Web Development,62,1,Not Completed,3,2025-02-05
+336,Web Development,82,5,Not Completed,4,2025-03-02
+337,Python Basics,161,4,Completed,4,2025-02-18
+338,Web Development,167,4,Completed,5,2025-01-28
+339,Web Development,219,3,Completed,4,2025-02-13
+340,Web Development,102,4,Completed,4,2025-03-28
+341,Web Development,113,3,Completed,4,2025-02-10
+342,Data Science,211,5,Completed,4,2025-01-23
+343,Data Science,111,2,Completed,5,2025-03-15
+344,Web Development,61,7,Not Completed,4,2025-03-08
+345,Python Basics,96,3,Not Completed,4,2025-01-27
+346,Python Basics,150,4,Completed,5,2025-03-04
+347,Python Basics,45,1,Not Completed,2,2025-02-17
+348,Python Basics,178,3,Completed,4,2025-02-27
+349,Python Basics,79,1,Not Completed,4,2025-03-21
+350,Data Science,66,7,Not Completed,4,2025-01-29
+351,Python Basics,45,5,Not Completed,4,2025-02-10
+352,Data Science,184,1,Completed,4,2025-02-07
+353,Web Development,168,5,Completed,4,2025-03-01
+354,Data Science,210,5,Completed,5,2025-02-20
+355,Python Basics,97,3,Not Completed,3,2025-01-13
+356,Python Basics,67,7,Not Completed,2,2025-01-09
+357,Python Basics,199,3,Completed,4,2025-02-04
+358,Web Development,140,2,Completed,5,2025-03-27
+359,Data Science,86,3,Not Completed,4,2025-01-28
+360,Data Science,46,5,Not Completed,2,2025-01-21
+361,Web Development,224,4,Completed,4,2025-03-05
+362,Python Basics,173,4,Completed,5,2025-03-10
+363,Web Development,229,2,Completed,5,2025-01-04
+364,Data Science,185,5,Completed,4,2025-02-25
+365,Web Development,64,4,Not Completed,2,2025-02-09
+366,Python Basics,70,5,Not Completed,4,2025-03-09
+367,Python Basics,217,1,Completed,4,2025-03-22
+368,Python Basics,110,4,Completed,5,2025-03-20
+369,Python Basics,92,7,Not Completed,4,2025-02-19
+370,Python Basics,91,4,Not Completed,4,2025-03-25
+371,Python Basics,232,7,Completed,4,2025-02-25
+372,Python Basics,47,3,Not Completed,3,2025-02-21
+373,Data Science,204,4,Completed,5,2025-02-09
+374,Web Development,59,1,Not Completed,3,2025-03-26
+375,Data Science,138,4,Completed,5,2025-02-18
+376,Web Development,38,7,Not Completed,2,2025-02-26
+377,Web Development,160,1,Completed,5,2025-01-28
+378,Web Development,209,7,Completed,5,2025-03-26
+379,Data Science,30,5,Not Completed,4,2025-02-03
+380,Web Development,97,2,Not Completed,3,2025-02-28
+381,Python Basics,46,4,Not Completed,4,2025-01-13
+382,Python Basics,131,5,Completed,4,2025-01-02
+383,Data Science,191,4,Completed,4,2025-02-17
+384,Web Development,109,3,Completed,4,2025-02-26
+385,Python Basics,174,4,Completed,5,2025-02-14
+386,Python Basics,180,2,Completed,4,2025-03-04
+387,Data Science,115,6,Completed,5,2025-02-22
+388,Python Basics,73,7,Not Completed,4,2025-01-09
+389,Web Development,235,5,Completed,5,2025-01-21
+390,Data Science,143,5,Completed,5,2025-02-28
+391,Data Science,131,3,Completed,5,2025-01-24
+392,Web Development,226,4,Completed,5,2025-03-03
+393,Web Development,203,1,Completed,4,2025-03-11
+394,Python Basics,147,5,Completed,4,2025-03-01
+395,Data Science,200,2,Completed,5,2025-03-01
+396,Python Basics,219,4,Completed,4,2025-02-22
+397,Web Development,211,3,Completed,5,2025-02-07
+398,Data Science,94,6,Not Completed,3,2025-01-01
+399,Data Science,101,4,Completed,5,2025-04-01
+400,Web Development,36,4,Not Completed,3,2025-01-04
